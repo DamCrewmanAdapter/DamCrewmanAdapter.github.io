@@ -1,0 +1,26 @@
+{
+  "name": "47 проверенных прокси Telegram — MTProto Рубеж, 15:33 МСК",
+  "short_name": "MTProto Рубеж",
+  "description": "MTProto Рубеж — свежая сводка MTProxy: 47 серверов с подтверждённой доступностью. Бесплатно, без программ, кнопка «Подключить» открывает Telegram.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf4f6",
+  "theme_color": "#9d2541",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
